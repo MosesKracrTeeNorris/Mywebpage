@@ -12,7 +12,7 @@
   --paragraph-font: Big Shoulder Display;
 
   /* these colors below should be chosen from among your palette colors above */
-  --headline-color-on-color: #1010f1dd;  /* headlines on a white background */ 
+  --headline-color-on-color: white;  /* headlines on a white background */ 
   --headline-color-on-white: rgba(11, 11, 11, 0.967); /* headlines on a colored background */ 
   --paragraph-color-on-color: white; /* paragraph text on a white background */ 
   --paragraph-color-on-color: rgb(9, 9, 9); /* paragraph text on a colored background */ 
