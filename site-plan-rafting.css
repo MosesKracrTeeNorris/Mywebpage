@@ -12,9 +12,9 @@
   --paragraph-font: Big Shoulder Display;
 
   /* these colors below should be chosen from among your palette colors above */
-  --headline-color-on-color: #0d0d0ef5;  /* headlines on a white background */ 
-  --headline-color-on-white: rgba(238, 64, 11, 0.888); /* headlines on a colored background */ 
-  --paragraph-color-on-white: #010114; /* paragraph text on a white background */ 
+  --headline-color-on-color: #e9e9eaa3;  /* headlines on a white background */ 
+  --headline-color-on-white: rgba(11, 11, 11, 0.967); /* headlines on a colored background */ 
+  --paragraph-color-on-white: white; /* paragraph text on a white background */ 
   --paragraph-color-on-color: rgb(50, 14, 228); /* paragraph text on a colored background */ 
   --paragraph-background-color: #396E94  ;
   --nav-link-color: #396E94;  
