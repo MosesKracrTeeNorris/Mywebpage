@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>Self Introduction</title>
+    </head>
+    <body>
+        <header>
+        <a>Good Day Everyone.</a>
+        </header>
+        <main>
+            <h1>My name is Moses KracarTee Norris.</h1>
+            <p>I am from Liberia West Africa. Our time zone here is GMT</p>
+            My favorite food is Potato leaf rice. Also, I love eating Meat Pie. 
+            </p>
+            <p>I hope to learn new ideas from everyone in here this semester. I am glad to be enrolled as a BYU Idaho student.</p>
+            <p>I wish everyone a successful semester including myself.</p>
+            <img
+            src="1668690878548.jpg"
+            width="300"
+            height="300"
+            />
+            <img
+            src="1668690868782.jpg"
+            width="300"
+            height="300"
+            />
+            <img
+            src="1668690802909.jpg"
+            width="300"
+            height="300"
+            />
+        </main>
+        <footer>
+            <p>Thanks. Moses Kracar-Tee Norris &copy;2023</p>
+        </footer>
+    </body>
+</html>
