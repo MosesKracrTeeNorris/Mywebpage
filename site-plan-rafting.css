@@ -15,14 +15,14 @@ Fonts are separated by a & */
   --paragraph-font: Big Shoulder Display;
 
   /* these colors below should be chosen from among your palette colors above */
-  --headline-color-on-white: #0d0d0ef5;  /* headlines on a white background */ 
-  --headline-color-on-color: white; /* headlines on a colored background */ 
+  --headline-color-on-color: #0d0d0ef5;  /* headlines on a white background */ 
+  --headline-color-on-white: rgba(238, 64, 11, 0.888); /* headlines on a colored background */ 
   --paragraph-color-on-white: #010114; /* paragraph text on a white background */ 
-  --paragraph-color-on-color: white; /* paragraph text on a colored background */ 
+  --paragraph-color-on-color: rgb(50, 14, 228); /* paragraph text on a colored background */ 
   --paragraph-background-color: #396E94  ;
   --nav-link-color: #396E94;  
   --nav-background-color: #FB5607;
-  --nav-hover-link-color: white;
+  --nav-hover-link-color: rgb(66, 13, 241);
   --nav-hover-background-color: #1612e2;
 }
 
