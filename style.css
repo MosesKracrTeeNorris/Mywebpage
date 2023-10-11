@@ -12,6 +12,12 @@ body {
 header {
     background-color:rgba(223, 230, 218, 0.597);
 }
+header {
+  padding: 1em;
+  text-align: center;
+  color: var(--headline-color-on-color);
+  background-color: var(--paragraph-background-color);
+}
 nav a:hover {
     background-color: red;
 }
@@ -33,7 +39,7 @@ nav a {
     text-decoration: none;
 }
 footer p a:hover {
-    text-decoration: dashed;
+    text-decoration: underline;
 } 
 body {
     max-width: 960px;
@@ -45,7 +51,8 @@ body {
   img {
     display: block;
     margin: 0 auto;
-    max-width: 150px;
+    max-width: 200px;
+    display: inline-flex;
   }
   h1, h2, h3, h4, h5, h6 {
     font-family: var(--heading-font);
@@ -121,5 +128,5 @@ body {
   }
   footer {
     background-color: steelblue;
-    display: inline;
+    color: white;
 }
