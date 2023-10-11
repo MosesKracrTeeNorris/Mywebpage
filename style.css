@@ -20,7 +20,7 @@ nav a:hover {
 }
 nav a:hover {
     background-color: rgb(222, 24, 24);
-    color: #f1e8dd;
+    color: #ddd1c3;
 }
 .icon {
     width: 80px;
@@ -32,7 +32,7 @@ nav a {
 }
 nav a {
     text-align: center;
-    color: #fcfbfb;
+    color: #e0d2d2;
     text-decoration: none;
 }
 footer p a:hover {
