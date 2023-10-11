@@ -15,8 +15,8 @@
     --headline-color-on-white: rgba(11, 11, 11, 0.967); /* headlines on a colored background */ 
     --paragraph-color-on-color: white; /* paragraph text on a white background */ 
     --paragraph-color-on-color: white; /* paragraph text on a colored background */ 
-    --paragraph-background-color: #0c0ce4;
-    --nav-link-color: #f8fafafb;  
+    --paragraph-background-color: #b0d3eaed;
+    --nav-link-color: #060606df;  
     --nav-background-color: #FB5607;
     --nav-hover-link-color: rgb(66, 13, 241);
     --nav-hover-background-color: #1612e2;
