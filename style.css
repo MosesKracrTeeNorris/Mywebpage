@@ -33,7 +33,7 @@ nav a {
     text-decoration: none;
 }
 footer p a:hover {
-    text-decoration: underline;
+    text-decoration: dashed;
 } 
 body {
     max-width: 960px;
@@ -121,5 +121,5 @@ body {
   }
   footer {
     background-color: steelblue;
-    color: white;
+    display: inline-flex;
 }
