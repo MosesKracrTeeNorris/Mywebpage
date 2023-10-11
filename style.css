@@ -3,6 +3,9 @@
     background-color: rgba(32, 32, 210, 0.289); 
     
 }*/
+#background {
+  height: 725px;
+}
 body {
     background-color: rgba(80, 216, 216, 0.707); 
 }
@@ -10,7 +13,7 @@ header {
     background-color:rgba(187, 238, 151, 0.597);
 }
 header {
-  padding: 1em;
+  padding: 0.6em;
   text-align: center;
   color: var(--headline-color-on-color);
   background-color: var(--paragraph-background-color);
