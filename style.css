@@ -59,6 +59,16 @@ nav a {
 }
 footer p a:hover {
     text-decoration: underline;
+}
+body {
+  background-color: #fcfbfb;
+  font-family: Raleway, Arial, sans-serif;
+  font-size: 22px;
+  margin: 0;
+  padding: 0;
+}
+h2 {
+  margin: 0;
 } 
 body {
     max-width: 960px;
