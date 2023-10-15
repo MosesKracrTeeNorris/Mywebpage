@@ -32,7 +32,7 @@ header {
     background-color:rgba(187, 238, 151, 0.597);
 }
 header {
-  padding: 0.1em;
+  padding: 0em;
   text-align: center;
   color: var(--headline-color-on-color);
   background-color: var(--paragraph-background-color);
