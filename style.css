@@ -17,7 +17,7 @@
     --paragraph-color-on-color: white; /* paragraph text on a colored background */ 
     --paragraph-background-color: none;
     --nav-link-color: white;  
-    --nav-background-color: #FB5607;
+    --nav-background-color: #f85722;
     --nav-hover-link-color: none;
     --nav-hover-background-color: none;
   }  
@@ -150,9 +150,10 @@ body {
   }
   .logo {
     width: 100px;
-    height: 90px;
+    height: 90;
     top: 0;
-    left: 10em;
+    left: 0;
+    position: relative;
   }
   .msg { background-color: steelblue;
     color: white;
