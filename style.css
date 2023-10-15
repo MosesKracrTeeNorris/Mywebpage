@@ -153,7 +153,7 @@ body {
     height: 90;
     top: 0;
     left: 0;
-    object-position: 10em;
+    position: absolute;
       }
   hero-msg{ background-color: steelblue;
         color: white;
