@@ -147,6 +147,13 @@ body {
     text-decoration: none;
     padding: 20px;
   }
+  .logo {
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
   .msg { background-color: steelblue;
     color: white;
     border-radius: 18px;
