@@ -16,10 +16,10 @@
     --paragraph-color-on-color: white; /* paragraph text on a white background */ 
     --paragraph-color-on-color: white; /* paragraph text on a colored background */ 
     --paragraph-background-color: none;
-    --nav-link-color: #060606df;  
+    --nav-link-color: white;  
     --nav-background-color: #FB5607;
-    --nav-hover-link-color: rgb(66, 13, 241);
-    --nav-hover-background-color: #1612e2;
+    --nav-hover-link-color: none;
+    --nav-hover-background-color: none;
   }  
 
 #background {
@@ -58,7 +58,8 @@ nav a {
     text-decoration: none;
 }
 footer p a:hover {
-    text-decoration: underline;
+    text-decoration: border;
+    border-radius: 10px;
 }
 body {
   background-color: #fcfbfb;
