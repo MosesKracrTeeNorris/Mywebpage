@@ -72,9 +72,9 @@ h2 {
   margin: 0;
 } 
 body {
-    max-width: 980px;
+    max-width: 1080px;
     margin: 0 auto;
-    padding: 4em;
+    padding: 0.2em;
     font-size: 18px;
     text-align: center;
   }
@@ -155,7 +155,7 @@ body {
     left: 0;
     position: absolute;
       }
-  .hero-msg{ background-color: steelblue;
+  hero-msg{ background-color: steelblue;
         color: white;
         border-radius: 10px;
         text-align: center;
