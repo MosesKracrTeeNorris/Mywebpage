@@ -147,6 +147,11 @@ body {
     text-decoration: none;
     padding: 20px;
   }
+  .msg { background-color: steelblue;
+    color: white;
+    border-radius: 18px;
+    text-align: center;
+  }
   nav a:link, nav a:visited {
     color: var(--nav-link-color);
   }
