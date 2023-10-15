@@ -157,10 +157,5 @@ body {
   footer {
     background-color: steelblue;
     color: white;
-    border-radius: 25px;
-    padding: 6em;
-  width: 400px;
-  height: 300px;
-  box-align: justify;
-  margin-bottom: 0.4em;
-}
+    border-radius: 20px;
+  }
