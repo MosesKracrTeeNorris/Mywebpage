@@ -7,9 +7,9 @@
 .content1 {
   /* This is the parent of the activity 1 boxes. */
   display: grid;
-  grid-template-columns: 100fr 100fr 100px 100px;
+  grid-template-columns: 100px 100px 100px 100px;
   justify-items: center;
-  gap: 3px;
+  gap: 20px;
   padding: 10px;
 }
 .red1 { 
