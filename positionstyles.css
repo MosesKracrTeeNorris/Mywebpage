@@ -4,6 +4,13 @@
   /* This is the parent of the activity 1 boxes. */
   height: 400px;
 }
+.content1 {
+  /* This is the parent of the activity 1 boxes. */
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-items: center;
+  gap: 20px;
+}
 .red1 { 
   width: 100px; 
   height: 100px; 
