@@ -9,7 +9,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   justify-items: center;
-  gap: 100px;
+  gap: 3px;
 }
 .red1 { 
   width: 100%; 
