@@ -1,8 +1,8 @@
 /* CSS - Name: "positionstyles.css" */
 /* Activity 1 styles */
-.content1 {
+ .content1 {
   /* This is the parent of the activity 1 boxes. */
-
+  height: 400px;
 }
 .red1 { 
   width: 100px; 
@@ -29,7 +29,8 @@
 /* Activity 2 styles */ 
 .content2 {
   /* This is the parent of the activity 2 boxes. */
-}
+  height: 400px;
+} 
 .red2 {
   width: 100px; 
   height: 100px; 
@@ -53,6 +54,7 @@
 /* Activity 3 styles */ 
 .content3 {
   /* This is the parent of the activity 3 boxes. */
+  height: 400px;
 }
 .red3 {
   width: 100px; 
@@ -129,6 +131,7 @@
 /* Activity 6 styles */ 
 .content6 {
   /* This is the parent of the activity 6 boxes. */
+  height: 400px;
 }
 .red6 {
   width: 100px; 
