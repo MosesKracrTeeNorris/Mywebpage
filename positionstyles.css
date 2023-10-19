@@ -9,8 +9,8 @@
   display: grid;
   grid-template-columns: 200px 200px 200px;
   justify-items: center;
-  gap: 0.5px;
-  padding: 0.5px;
+  gap: 20px;
+  padding: 30px;
   margin: 2px;
 }
 /*.red1 { 
@@ -48,7 +48,7 @@
   height: 400px;
   display: grid;
   grid-template-columns: 200px 200px 200px;
-  justify-items: justify;
+  justify-items: center;
   gap: 0.6px;
   padding: 10px;
 } 
