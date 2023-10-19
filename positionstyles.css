@@ -10,8 +10,8 @@
   grid-template-columns: 200px 200px 200px;
   justify-items: center;
   gap: 20px;
-  padding: 30px;
-  margin: 2px;
+  padding: 1px;
+  margin: 0em;
 }
 /*.red1 { 
   width: 100%; 
