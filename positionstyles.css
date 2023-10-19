@@ -9,9 +9,8 @@
   display: grid;
   grid-template-columns: 200px 200px 200px;
   justify-items: center;
-  gap: 20px;
-  padding: 1px;
-  margin: 0em;
+  gap: 1px;
+  padding: 5px;
 }
 /*.red1 { 
   width: 100%; 
