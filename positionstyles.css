@@ -124,8 +124,10 @@
 .content5 {
   /* This is the parent of the activity 5 boxes. */
   height: 400px;
-  float: right;
-}
+  }
+  .content5{
+    float: center;
+  }
 .red5 { 
   width: 100px; 
   height: 100px; 
