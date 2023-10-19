@@ -136,7 +136,7 @@
   height: 400px;
   display: grid;
   grid-template-columns: 200px 200px 200px;
-  justify-items: center;
+  justify-items: left;
   gap: 0.6px;
   padding: 10px;
   }
