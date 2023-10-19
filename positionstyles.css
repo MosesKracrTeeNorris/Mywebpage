@@ -74,6 +74,11 @@
 .content3 {
   /* This is the parent of the activity 3 boxes. */
   height: 400px;
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  justify-items: center;
+  gap: 0.6px;
+  padding: 10px;
 }
 .red3 {
   width: 100px; 
@@ -99,6 +104,11 @@
 .content4 {
   /* This is the parent of the activity 4 boxes. */
   height: 400px;
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  justify-items: center;
+  gap: 0.6px;
+  padding: 10px;
 }
 .red4 {
   width: 100px; 
@@ -124,6 +134,11 @@
 .content5 {
   /* This is the parent of the activity 5 boxes. */
   height: 400px;
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  justify-items: center;
+  gap: 0.6px;
+  padding: 10px;
   }
   .content5{
     float: right;
@@ -154,6 +169,11 @@
 .content6 {
   /* This is the parent of the activity 6 boxes. */
   height: 400px;
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  justify-items: center;
+  gap: 0.6px;
+  padding: 10px;
 }
 .red6 {
   width: 100px; 
