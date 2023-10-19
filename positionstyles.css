@@ -9,7 +9,7 @@
   display: grid;
   grid-template-columns: 200px 200px 200px;
   justify-items: center;
-  gap: 0px;
+  gap: 0.5px;
   padding: 0.5px;
   margin: 2px;
 }
