@@ -9,6 +9,7 @@
   display: grid;
   grid-template-columns: 200px 200px 200px;
   justify-items: right;
+  border: 10px;
   gap: 1px;
   padding: 5px;
 }
@@ -22,7 +23,7 @@
   width: 100px; 
   height: 100px; 
   background-color: red;
-
+  border: 2px;
 } 
 .green1 {
   width: 100px; 
