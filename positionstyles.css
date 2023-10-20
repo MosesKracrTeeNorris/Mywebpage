@@ -197,7 +197,7 @@ img {
   height: 200px; 
   background-color: green;
   position: relative; 
-  border-right: 20px;
+  bottom: 20px;
 } 
 .yellow6 {
   width: 160px; 
