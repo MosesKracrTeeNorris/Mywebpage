@@ -9,9 +9,11 @@
   display: grid;
   grid-template-columns: 200px 200px;
   justify-items: center;
+  flex-wrap: wrap;
   border: 10px;
   gap: 1px;
   padding: 5px;
+  border: #484545;
 }
 /*.red1 { 
   width: 100%; 
