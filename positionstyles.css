@@ -25,6 +25,7 @@
   width: 100px; 
   height: 100px; 
   background-color: red;
+  flex-grow: 1;
   } 
 .green1 {
   width: 100px; 
