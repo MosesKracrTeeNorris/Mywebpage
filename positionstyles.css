@@ -89,7 +89,8 @@
   width: 600px;
   height: 100px; 
   background-color: blue;
-  position: relative; 
+  position: relative;
+  padding: top; 
 } 
 /* Activity 4 styles */ 
 .content4 {
