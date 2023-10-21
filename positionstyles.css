@@ -39,9 +39,9 @@
   position: relative;
   display: block;
       margin: auto;
-    background-color: #0c0b0b;
+    background-color: #0e0d0d;
     transition: background-color 300ms;
-    width: 406px;
+    width: 506px;
     aspect-ratio: auto 606 / 610;
     height: 310px;
 } 
