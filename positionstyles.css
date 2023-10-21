@@ -15,16 +15,14 @@
   width: 100px; 
   height: 100px; 
   background-color: green; 
-  position: relative;
   grid-template-columns: 200px 200px;
-  justify-items: center;
+  
   } 
 .yellow1 {
   width: 100px; 
   height: 100px; 
   background-color: gold;
   grid-template-columns: 200px 200px;
-  justify-items: center; 
 } 
 .blue1 {
   width: 600px; 
