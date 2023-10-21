@@ -109,7 +109,7 @@
   background-color: green;
   position: relative;
   left: 200px;
-  bottom: 300px; 
+  bottom: 380px; 
 } 
 .yellow4 {
   width: 200px; 
@@ -117,7 +117,7 @@
   background-color: gold;
   position: relative;
   left: 200px;
-  bottom: 300px;
+  bottom: 380px;
 } 
 .blue4 {
   width: 200px; 
@@ -125,7 +125,7 @@
   background-color: blue;
   position: relative; 
   left: 200px;
-  bottom: 300px;
+  bottom: 380px;
 } 
 /* Activity 5 styles */ 
 .content5 {
