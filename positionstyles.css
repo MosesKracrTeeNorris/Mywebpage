@@ -7,7 +7,7 @@
   grid-template-columns: 300px 300px;
   grid-template-rows: 200px 200px;
   justify-content: center;
-  gap: 10px;
+  gap: 5px;
   }
 .red1 { 
   width: 600px; 
