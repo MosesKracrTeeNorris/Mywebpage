@@ -4,9 +4,7 @@
   /* This is the parent of the activity 1 boxes. */
   height: 400px;
   display: grid;
-  grid-template-columns: 200px 200px;
-  justify-content: center;
-  gap: 5px;
+    grid-template-columns: 1fr 1fr;
   
   }
 .red1 { 
@@ -39,9 +37,9 @@
       margin: auto;
     background-color: #0c0b0b;
     transition: background-color 300ms;
-    width: 406px;
+    width: 206px;
     aspect-ratio: auto 606 / 610;
-    height: 510px;
+    height: 210px;
 } 
 .red2 {
   width: 200px; 
