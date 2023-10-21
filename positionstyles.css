@@ -16,6 +16,8 @@
   height: 100px; 
   background-color: green; 
   grid-template-rows: 200px 200px;
+  display: flex;
+  flex-direction: row;
   
   } 
 .yellow1 {
@@ -80,7 +82,7 @@
   height: 200px; 
   background-color: gold;
   position: relative;
-  left: 300px;
+  left: 200px;
   bottom: 200px;
   margin: 0 auto; 
 } 
