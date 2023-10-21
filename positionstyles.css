@@ -55,16 +55,16 @@
   height: 200px; 
   background-color: gold;
   position: absolute;
-  top: 15px;
-  left: 15px; 
+  top: 30px;
+  right: 30px; 
 } 
 .blue2 {
   width: 200px; 
   height: 200px; 
   background-color: blue;
   position: absolute;
-  top: 10px;
-  left: 10px; 
+  top: 40px;
+  right: 40px; 
 } 
 /* Activity 3 styles */ 
 .content3 {
