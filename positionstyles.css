@@ -15,7 +15,6 @@
   width: 100px; 
   height: 100px; 
   background-color: green; 
-  display: flex;
   position: relative;
   grid-template-columns: 200px 200px;
   justify-items: center;
@@ -24,7 +23,6 @@
   width: 100px; 
   height: 100px; 
   background-color: gold;
-  display: inline;
   grid-template-columns: 200px 200px;
   justify-items: center; 
 } 
@@ -85,7 +83,8 @@
   background-color: gold;
   position: relative;
   left: 300px;
-  bottom: 200px; 
+  bottom: 200px;
+  margin: 0 auto; 
 } 
 .blue3 {
   width: 600px;
