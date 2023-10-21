@@ -6,7 +6,7 @@
   display: grid;
     grid-template-columns: 1fr 1fr;
     justify-items: center;
-    gap: 20px;
+    gap: 10px;
     padding: 10;
   }
 .red1 { 
@@ -162,7 +162,8 @@ img {
   float: left; 
   margin: 5px; 
   text-align: justify; 
-  font-size: 18px;
+  font-size: 14px;
+  gap: 20;
 }
 .red5 { 
   width: 100%; 
