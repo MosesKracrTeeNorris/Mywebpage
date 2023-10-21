@@ -62,7 +62,7 @@
 .content3 {
   /* This is the parent of the activity 3 boxes. */
   height: 400px;
-  padding: 1px;
+  
 }
 .red3 {
   width: 600px; 
@@ -90,7 +90,7 @@
   height: 100px; 
   background-color: blue;
   position: relative;
-  margin: -5em; 
+  margin: -2em; 
 } 
 /* Activity 4 styles */ 
 .content4 {
