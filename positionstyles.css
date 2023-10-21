@@ -39,6 +39,7 @@
 .content2 {
   /* This is the parent of the activity 2 boxes. */
   height: 400px;
+  overflow-wrap: normal;
   
 } 
 .red2 {
