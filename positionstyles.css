@@ -3,6 +3,7 @@
  .content1 {
   /* This is the parent of the activity 1 boxes. */
   height: 400px;
+  position: fixed;
   }
 .red1 { 
   width: 600px; 
