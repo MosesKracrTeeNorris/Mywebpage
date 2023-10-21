@@ -63,8 +63,8 @@
   height: 200px; 
   background-color: blue;
   position: absolute;
-  top: 50px;
-  left: 50px; 
+  top: 70px;
+  left: 70px; 
 } 
 /* Activity 3 styles */ 
 .content3 {
@@ -94,7 +94,7 @@
   bottom: 200px;
 } 
 .blue3 {
-  width: 750px;
+  width: 800px;
   height: 100px; 
   background-color: blue;
   position: relative;
