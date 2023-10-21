@@ -158,9 +158,10 @@ img {
   width: 100px; 
   height: 100px; 
   background-color: gold;
-  float: right;
-    
-
+  float: left; 
+  margin: 5px; 
+  text-align: justify; 
+  font-size: 18px; 
 } 
 .blue5 {
   width: 600px; 
