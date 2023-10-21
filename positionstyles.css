@@ -17,6 +17,7 @@
   height: 100px; 
   background-color: green; 
   display: grid;
+  position: relative;
   grid-template-columns: 200px 200px;
     gap: 20px;
   justify-items: center;
