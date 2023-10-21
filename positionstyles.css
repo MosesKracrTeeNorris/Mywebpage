@@ -3,7 +3,8 @@
  .content1 {
   /* This is the parent of the activity 1 boxes. */
   height: 400px;
-  position: fixed;
+  display: grid;
+  justify-content: center;
   }
 .red1 { 
   width: 600px; 
@@ -14,8 +15,7 @@
   width: 100px; 
   height: 100px; 
   background-color: green; 
-  display: grid;
-  grid-template-columns: 100px 100px;
+  grid-template-columns: 200px 200px;
   gap: 20px;
   justify-items: center;
   } 
@@ -23,8 +23,7 @@
   width: 100px; 
   height: 100px; 
   background-color: gold;
-  display: grid;
-  grid-template-columns: 100px 100px;
+  grid-template-columns: 200px 200px;
   gap: 20px;
   justify-items: center; 
 } 
