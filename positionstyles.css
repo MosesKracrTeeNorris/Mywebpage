@@ -37,12 +37,12 @@
   position: relative;
   display: block;
       margin: auto;
-    background-color: #f5f2f2;
+    background-color: #0c0b0b;
     transition: background-color 300ms;
     width: 606px;
     aspect-ratio: auto 606 / 610;
-    height: 610px;
-    border-radius: 10px;
+    height: 150px;
+    border-radius: 20px;
 } 
 .red2 {
   width: 200px; 
