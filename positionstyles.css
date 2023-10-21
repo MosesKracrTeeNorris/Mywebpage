@@ -4,8 +4,7 @@
   /* This is the parent of the activity 1 boxes. */
   height: 400px;
   display: grid;
-  grid-template-columns: 300px 300px;
-  grid-template-rows: 200px 200px;
+  grid-template-columns: 200px 200px;
   justify-content: center;
   gap: 5px;
   padding: .4em;
