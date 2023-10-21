@@ -89,7 +89,8 @@
   height: 100px; 
   background-color: blue;
   position: relative;
-  margin: -8em; 
+  margin: -8em;
+  right: 0.1px; 
 } 
 /* Activity 4 styles */ 
 .content4 {
