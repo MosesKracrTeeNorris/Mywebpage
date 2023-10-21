@@ -197,11 +197,11 @@ img {
   height: 200px; 
   background-color: green;
   position: relative; 
-  top: 70px;
+  top: 200px;
 } 
 .yellow6 {
   width: 200px; 
-  height: 260px; 
+  height: 280px; 
   background-color: gold;
   position: relative;
   left: 450px; 
@@ -212,7 +212,7 @@ img {
   background-color: blue;
   position: relative; 
   padding: center;
-  bottom: 200px;
+  bottom: 400px;
 } 
 
 
