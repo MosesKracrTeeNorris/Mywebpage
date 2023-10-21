@@ -96,7 +96,19 @@
 .content4 {
   /* This is the parent of the activity 4 boxes. */
   height: 400px;
-  
+  display: block;
+      margin: auto;
+    background-color: #0f0f0fd9;
+    transition: background-color 300ms;
+    width: 606px;
+    aspect-ratio: auto 606 / 610;
+    height: 610px;
+    border: wheat;
+}
+user agent stylesheet
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;  
 }
 .red4 {
   width: 200px; 
