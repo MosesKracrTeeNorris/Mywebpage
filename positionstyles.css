@@ -78,11 +78,15 @@
   width: 100px; 
   height: 100px; 
   background-color: green;
+  position: relative;
+  right: 0.1px;
 } 
 .yellow3 {
-  width: 100px; 
+  width: 200px; 
   height: 100px; 
-  background-color: gold; 
+  background-color: gold;
+  position: relative;
+  left: 300px; 
 } 
 .blue3 {
   width: 600px;
