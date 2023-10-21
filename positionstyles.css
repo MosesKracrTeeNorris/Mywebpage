@@ -70,7 +70,8 @@
 .content3 {
   /* This is the parent of the activity 3 boxes. */
   height: 400px;
-  
+ border: #d0d0d0;
+ border-radius: 50px; 
 }
 .red3 {
   width: 600px; 
