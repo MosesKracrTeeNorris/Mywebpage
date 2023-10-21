@@ -6,8 +6,6 @@
   display: grid;
   grid-template-columns: 300px 300px;
   grid-template-rows: 200px 200px;
-  display: flex;
-  flex-direction: row;
   justify-content: center;
   gap: 10px;
   }
