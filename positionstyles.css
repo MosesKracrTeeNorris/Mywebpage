@@ -6,7 +6,7 @@
   display: grid;
     grid-template-columns: 1fr 1fr;
     justify-items: center;
-    gap: 3added itempx;
+    gap: 3px;
     padding: 10;
   }
 .red1 { 
