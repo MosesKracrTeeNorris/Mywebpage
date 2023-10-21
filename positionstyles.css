@@ -16,7 +16,7 @@
   width: 100px; 
   height: 100px; 
   background-color: green; 
-  display: grid;
+  display: flex;
   position: relative;
   grid-template-columns: 200px 200px;
     gap: 20px;
@@ -26,6 +26,7 @@
   width: 100px; 
   height: 100px; 
   background-color: gold;
+  display: inline;
   grid-template-columns: 200px 200px;
   gap: 20px;
   justify-items: center; 
