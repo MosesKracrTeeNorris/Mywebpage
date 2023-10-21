@@ -3,7 +3,7 @@
  .content1 {
   /* This is the parent of the activity 1 boxes. */
   height: 400px;
-}
+  }
 .red1 { 
   width: 600px; 
   height: 100px; 
@@ -13,13 +13,17 @@
   width: 100px; 
   height: 100px; 
   background-color: green; 
+  display: grid;
   grid-template-columns: 100px 100px;
+  justify-items: center;
   } 
 .yellow1 {
   width: 100px; 
   height: 100px; 
   background-color: gold;
-  grid-template-columns: 100px 100px; 
+  display: grid;
+  grid-template-columns: 100px 100px;
+  justify-items: center; 
 } 
 .blue1 {
   width: 600px; 
