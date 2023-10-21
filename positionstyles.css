@@ -3,6 +3,10 @@
  .content1 {
   /* This is the parent of the activity 1 boxes. */
   height: 400px;
+  display: grid;
+  grid-template-rows: 200px 200px;
+  display: flex;
+  flex-direction: row;
   justify-content: center;
   gap: 10px;
   }
@@ -15,16 +19,12 @@
   width: 100px; 
   height: 100px; 
   background-color: green; 
-  grid-template-rows: 200px 200px;
-  display: flex;
-  flex-direction: row;
   
   } 
 .yellow1 {
   width: 100px; 
   height: 100px; 
   background-color: gold;
-  grid-template-rows: 200px 200px;
 } 
 .blue1 {
   width: 600px; 
