@@ -159,6 +159,10 @@ img {
 .content5 {
   /* This is the parent of the activity 5 boxes. */
   height: 400px;
+  float: left; 
+  margin: 5px; 
+  text-align: justify; 
+  font-size: 18px;
 }
 .red5 { 
   width: 600px; 
@@ -175,10 +179,7 @@ img {
   width: 100px; 
   height: 100px; 
   background-color: gold;
-  float: left; 
-  margin: 5px; 
-  text-align: justify; 
-  font-size: 18px; 
+   
 } 
 .blue5 {
   width: 600px; 
