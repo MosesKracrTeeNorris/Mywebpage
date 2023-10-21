@@ -97,24 +97,30 @@
   
 }
 .red4 {
-  width: 100px; 
+  width: 200px; 
   height: 400px; 
   background-color: red; 
 } 
 .green4 {
   width: 200px; 
   height: 100px; 
-  background-color: green; 
+  background-color: green;
+  position: relative;
+  left: 200px; 
 } 
 .yellow4 {
   width: 200px; 
   height: 100px; 
-  background-color: gold; 
+  background-color: gold;
+  position: relative;
+  left: 200px;
 } 
 .blue4 {
   width: 200px; 
   height: 100px; 
-  background-color: blue; 
+  background-color: blue;
+  position: relative; 
+  left: 200px;
 } 
 /* Activity 5 styles */ 
 .content5 {
