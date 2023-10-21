@@ -3,7 +3,6 @@
  .content1 {
   /* This is the parent of the activity 1 boxes. */
   height: 400px;
-  display: flex;
   justify-content: center;
   gap: 10px;
   }
