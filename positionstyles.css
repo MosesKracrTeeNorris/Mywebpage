@@ -125,13 +125,11 @@
 .content5 {
   /* This is the parent of the activity 5 boxes. */
   height: 400px;
-  
-  }
-  .content5{
-    float: right;
+  float: right;
+   
   }
 .red5 { 
-  width: 100px; 
+  width: 600px; 
   height: 100px; 
   background-color: red; 
 } 
@@ -148,7 +146,7 @@
 
 } 
 .blue5 {
-  width: 100px; 
+  width: 600px; 
   height: 100px; 
   background-color: blue; 
 } 
