@@ -34,28 +34,37 @@
 .content2 {
   /* This is the parent of the activity 2 boxes. */
   height: 400px;
-  overflow-wrap: normal;
+  position: relative;
   
 } 
 .red2 {
-  width: 100px; 
-  height: 100px; 
+  width: 300px; 
+  height: 300px; 
   background-color: red; 
 } 
 .green2 { 
-  width: 100px; 
-  height: 100px; 
-  background-color: green; 
+  width: 300px; 
+  height: 300px; 
+  background-color: green;
+  position: absolute;
+  top: 20px;
+  left: 20px;
 } 
 .yellow2 {
-  width: 100px; 
-  height: 100px; 
-  background-color: gold; 
+  width: 300px; 
+  height: 300px; 
+  background-color: gold;
+  position: absolute;
+  top: 18px;
+  left: 20px; 
 } 
 .blue2 {
-  width: 100px; 
-  height: 100px; 
-  background-color: blue; 
+  width: 300px; 
+  height: 300px; 
+  background-color: blue;
+  position: absolute;
+  top: 16px;
+  left: 20px; 
 } 
 /* Activity 3 styles */ 
 .content3 {
@@ -89,7 +98,7 @@
   height: 100px; 
   background-color: blue;
   position: relative;
-  margin: -13em;
+  margin: -12em;
 } 
 /* Activity 4 styles */ 
 .content4 {
