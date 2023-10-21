@@ -69,9 +69,10 @@
   
 }
 .red3 {
-  width: 100px; 
+  width: 600px; 
   height: 100px; 
-  background-color: red; 
+  background-color: red;
+  position: relative; 
 } 
 .green3 {
   width: 100px; 
@@ -84,9 +85,10 @@
   background-color: gold; 
 } 
 .blue3 {
-  width: 100px;
+  width: 600px;
   height: 100px; 
-  background-color: blue; 
+  background-color: blue;
+  position: relative; 
 } 
 /* Activity 4 styles */ 
 .content4 {
