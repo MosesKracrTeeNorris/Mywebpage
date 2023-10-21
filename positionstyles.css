@@ -15,6 +15,7 @@
   background-color: green; 
   display: grid;
   grid-template-columns: 100px 100px;
+  gap: 20px;
   justify-items: center;
   } 
 .yellow1 {
@@ -23,6 +24,7 @@
   background-color: gold;
   display: grid;
   grid-template-columns: 100px 100px;
+  gap: 20px;
   justify-items: center; 
 } 
 .blue1 {
@@ -156,11 +158,11 @@ img {
     overflow: clip;
 }
 .red6 {
-  width: 600px; 
+  width: 500px; 
   height: 100px; 
   background-color: red;
   position: relative;
-  left: 18px; 
+  left: 10px; 
 } 
 .green6 {
   width: 200px; 
@@ -177,8 +179,8 @@ img {
   left: 450px; 
 } 
 .blue6 {
-  width: 200px; 
-  height: 200px; 
+  width: 500px; 
+  height: 500px; 
   background-color: blue;
   position: relative; 
   padding: center;
