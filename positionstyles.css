@@ -3,9 +3,9 @@
  .content1 {
   /* This is the parent of the activity 1 boxes. */
   height: 400px;
-  display: grid;
+  display: flex;
   justify-content: center;
-  gap: 20px;
+  gap: 10px;
   }
 .red1 { 
   width: 600px; 
