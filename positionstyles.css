@@ -18,10 +18,11 @@
 .yellow1 {
   width: 100px; 
   height: 100px; 
-  background-color: gold; 
+  background-color: gold;
+  grid-template-columns: 100px 100px; 
 } 
 .blue1 {
-  width: 100px; 
+  width: 600px; 
   height: 100px; 
   background-color: blue; 
 } 
@@ -177,6 +178,7 @@ img {
   background-color: blue;
   position: relative; 
   padding: center;
+  left: 100px;
   bottom: 600px;
 } 
 
