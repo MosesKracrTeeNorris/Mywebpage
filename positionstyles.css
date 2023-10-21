@@ -76,14 +76,14 @@
   position: relative; 
 } 
 .green3 {
-  width: 100px; 
+  width: 300px; 
   height: 100px; 
   background-color: green;
   position: relative;
   right: 0.1px;
 } 
 .yellow3 {
-  width: 100px; 
+  width: 300px; 
   height: 100px; 
   background-color: gold;
   position: relative;
