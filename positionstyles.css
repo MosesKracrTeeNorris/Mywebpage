@@ -8,6 +8,7 @@
   grid-template-rows: 200px 200px;
   justify-content: center;
   gap: 5px;
+  padding: .4em;
   }
 .red1 { 
   width: 600px; 
