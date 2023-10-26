@@ -9,8 +9,8 @@
     align-content: center;
     justify-items: center;
     align-items: center;
-    /*gap: 3px;
-    padding: 10;*/
+    gap: 20px;
+    /*padding: 10;*/
   }
 .red1 { 
   width: 100%; 
